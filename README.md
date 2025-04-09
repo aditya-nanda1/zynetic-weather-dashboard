@@ -45,5 +45,5 @@ This application uses the OpenWeatherMap API:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/weather-dashboard.git
-2. "npm install"   - to install packages
-3. "npm run dev"   - to run the webapp
+2. `npm install`   - to install packages
+3. `npm run dev`   - to run the webapp
